@@ -1,7 +1,7 @@
 <div align="center">
 
 ### 안녕하세요, 프론트엔드 개발자(지망생) 서진혁입니다!
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](링크를_넣으세요)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white)](링크를_넣으세요)
 
 #### 📚 홍익대학교 컴퓨터공학과 재학
 #### 🔍 프로그래머스 데브코스: 클라우드 기반 프론트엔드 엔지니어링 1기
