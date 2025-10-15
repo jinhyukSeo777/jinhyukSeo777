@@ -9,19 +9,13 @@
 
 <img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/react--query-FF4154.svg?&style=for-the-badge&logo=react-query&logoColor=white" />
+<img src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/apollo--server-311C87.svg?&style=for-the-badge&logo=apollo-graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/apollo--server-311C87.svg?&style=for-the-badge&logo=apollo-graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
-<br/>
-<br/>
-
-<a href="https://solved.ac/profile/sjhsjh0624"></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinhyukSeo777&layout=compact" alt="Top Langs" marginRight="10px" />
-<img src="https://github-readme-stats.vercel.app/api?username=jinhyukSeo777&show_icons=true&theme=light&hide_title=true" alt="GitHub Stats" />
 
 </div>
 
